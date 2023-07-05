@@ -1,0 +1,15 @@
+h1{
+    color: rgb(70, 218, 70);
+    text-align: center;
+}
+p{
+    color: #D42B70;
+    text-align: center;
+}
+ul{
+    list-style: none;
+    color: rgb(7, 7, 7);
+    display: grid;
+    grid-template-columns: repeat(4, 4fr);
+    font-weight: bold;
+}
